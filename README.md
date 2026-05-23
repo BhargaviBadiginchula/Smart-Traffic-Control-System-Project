@@ -64,13 +64,13 @@ GUI Display and Monitoring
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/smart-traffic-control-system.git
+git clone https://github.com/BhargaviBadiginchula/Smart-Traffic-Control-System-Project.git
 ```
 
 ### Navigate to the Project Folder
 
 ```bash
-cd smart-traffic-control-system
+cd Smart-Traffic-Control-System
 ```
 
 ### Install Required Libraries
